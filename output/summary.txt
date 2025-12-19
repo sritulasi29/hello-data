@@ -1,0 +1,6 @@
+
+STUDENT DATA INFO
+-----------------
+Number of rows: 4
+Number of columns: 4
+columns: ['name', 'math', 'science', 'english']
