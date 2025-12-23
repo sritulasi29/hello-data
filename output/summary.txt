@@ -1,6 +1,11 @@
 
-STUDENT DATA INFO
------------------
-Number of rows: 4
-Number of columns: 4
-columns: ['name', 'math', 'science', 'english']
+    STUDENT DATA INFO
+    -----------------
+    Number of rows: 4
+    Number of columns: 4
+    columns: ['name', 'math', 'science', 'english']
+    Mean of subjects: 
+    math       77.50
+science    80.50
+english    80.75
+dtype: float64
